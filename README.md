@@ -116,6 +116,9 @@ Your content made database programming much clearer and more enjoyable.
 
 ---
 
+👨‍💻 **Eslam Elmasry**
+GitHub: **@eslammasry1**
+
 <div align="center">
 
 ### ⭐ If you like this repository, don't forget to Star it!
